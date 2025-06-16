@@ -1,5 +1,4 @@
 # Mpg-dataset-and-notebook
-# Retail-Sales-Data
 Mpg_Dataset_Notebook_Using_Google Colab(Python)
 
 This Python Project 
